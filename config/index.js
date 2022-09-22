@@ -28,11 +28,11 @@ export const USER_CONFIG = {
     
     /** 每日N句 */
     // 金山每日一句
-    CIBA: true,
+    CIBA: false,
     // 每日一言
     oneTalk: false,
     // 土味情话(彩虹屁)
-    earthyLoveWords: false,
+    earthyLoveWords:true,
     // 朋友圈文案
     momentCopyrighting: false,
     // 毒鸡汤
@@ -41,7 +41,7 @@ export const USER_CONFIG = {
     poetry: false,
     
     /** 星座运势 */
-    horoscope: false,
+    horoscope: true,
     
     /** 生日消息和节日消息 */
     birthdayMessage: true,
@@ -145,8 +145,8 @@ export const USER_CONFIG = {
    */
   FESTIVALS: [
     // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
-    {"type": "*生日", "name": "老婆", "year": "1996", "date": "09-09", isShowAge: true},
-    {"type": "节日", "name": "结婚纪念日", "year": "2020", "date": "09-03"},
+    {"type": "*生日", "name": "老婆", "year": "2002", "date": "12-29", isShowAge: true},
+   
    
     // ...
   ],
