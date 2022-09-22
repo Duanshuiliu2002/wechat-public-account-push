@@ -6,12 +6,12 @@ export const USER_CONFIG = {
   // 公众号APP_ID
   // 建议不要填这里，请使用文档中github secret的方法进行保密配置，保护您的隐私安全。
   // 如果你非要填这里也行。脚本也能运行
-  APP_ID: "",
+  APP_ID: "wx58bfec929ae6aa98",
   
   // 公众号APP_SECRET
   // 建议不要填这里，请使用文档中github secret的方法进行保密配置，保护您的隐私安全。
   // 如果你非要填这里也行。脚本也能运行
-  APP_SECRET: "",
+  APP_SECRET: "6b10a7677946781f0b7ce0db749f972c",
   
   // 是否给文字设置多彩颜色, 和emoji不兼容
   // 如果您使用了微信测试号的模板中含有emoji表情，请填 false
@@ -64,7 +64,7 @@ export const USER_CONFIG = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "omHE5617RCQBY4BkWza1O1ab9Jc4",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "	M9t9dvTJ33pGFd4gTgOUBuDR9lLhAq-PPK6CEzls3mY",
+      useTemplateId: "M9t9dvTJ33pGFd4gTgOUBuDR9lLhAq-PPK6CEzls3mY",
       // 所在省份
       province: "河北",
       // 所在城市
@@ -170,13 +170,8 @@ export const USER_CONFIG = {
    * */
   CUSTOMIZED_DATE_LIST: [
     // 在一起的日子
-    {"keyword": "love_day", date: "2022-09-08"},
-    // 结婚纪念日
-    {"keyword": "marry_day", date: "2022-09-09"},
-    // 退伍日
-    {"keyword": "ex_day", date: "2022-09-10"},
-    // 你可以不断按格式往下增加
-    // ...
+    {"keyword": "love_day", date: "2022-05-06"},
+    
   ],
   
   /** 插槽 */
