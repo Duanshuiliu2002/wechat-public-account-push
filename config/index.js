@@ -28,11 +28,11 @@ export const USER_CONFIG = {
     
     /** 每日N句 */
     // 金山每日一句
-    CIBA: false,
+    CIBA: true,
     // 每日一言
     oneTalk: false,
     // 土味情话(彩虹屁)
-    earthyLoveWords:true,
+    earthyLoveWords:false,
     // 朋友圈文案
     momentCopyrighting: false,
     // 毒鸡汤
@@ -86,7 +86,8 @@ export const USER_CONFIG = {
       // 专属纪念日/倒数日，如果你在这里填写了纪念日/倒数日，就不会计算CUSTOMIZED_DATE_LIST的日子了, 和CUSTOMIZED_DATE_LIST的配置方法相同，可以往下查看，我这里就不重复写了
       customizedDateList: [
         // 在一起的日子
-       
+        // 在一起的日子
+        {"keyword": "love_day", date: "2022-05-06"},
       ]
     },
   
