@@ -34,14 +34,14 @@ export const USER_CONFIG = {
     // 土味情话(彩虹屁)
     earthyLoveWords:false,
     // 朋友圈文案
-    momentCopyrighting: false,
+    momentCopyrighting: ture,
     // 毒鸡汤
     poisonChickenSoup: false,
     // 古诗古文
     poetry: false,
     
     /** 星座运势 */
-    horoscope: false,
+    horoscope: ture,
     
     /** 生日消息和节日消息 */
     birthdayMessage: true,
@@ -64,7 +64,7 @@ export const USER_CONFIG = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "omHE5617RCQBY4BkWza1O1ab9Jc4",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "gpe1JY85EH48PAQ23PvOwtbF3WDoD1_B1nhUwc6Dj4Q",
+      useTemplateId: "lFl7Plm5GaXBwVTwTvQPVrTcYBAYYYLimft49Rr264g",
       // 所在省份
       province: "河北",
       // 所在城市
@@ -185,7 +185,7 @@ export const USER_CONFIG = {
         "我希望睡前最后看到的是你。",
         "申请成为你爱里的永久居民。",
         "只想牵你的手看你的眼…光着脚丫子在海边漫步…只有你只因你。",
-        "遇见你，就好像捡到了100斤的运气",
+        "如果可以，我宁愿是个乞丐，从你的门前走过，我渴望，我的空碗能盛上你的爱。",
       ]},
     // 你可以不断按格式往下增加
     // ...
