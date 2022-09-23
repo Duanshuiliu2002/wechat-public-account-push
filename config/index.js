@@ -70,10 +70,9 @@ export const USER_CONFIG = {
       horoscopeDate: '01-31',
       horoscopeDateType: '今日',
       openUrl: "www.google.com",
+      festivals: [
         {"type": "*生日", "name": "陈静姐姐", "year": "2002", "date": "12-29"},
-        
-      
-        
+    
       ],
         {"keyword": "love_day", date: "2022-05-06"},
       ]
