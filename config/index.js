@@ -64,14 +64,14 @@ export const USER_CONFIG = {
       // 微信测试号字符串
       id: "omHE5617RCQBY4BkWza1O1ab9Jc4",
       // 模板消息ID
-      useTemplateId: "lpT1DI7ISV3hwMquA2qRSBUhgihCKIJv6BmK8GSEmVA",
+      useTemplateId: "eLHW0LhRluVvR5379wfBLCRCjv8Zm225h881Z2CV8vg",
       province: "上海",
       city: "上海",
       horoscopeDate: '01-31',
       horoscopeDateType: '今日',
       openUrl: "www.google.com",
       festivals: [
-        {"type": "*生日", "name": "陈静姐姐", "year": "2002", "date": "12-29"},  ],
+        {"type": "*生日", "name": "宝宝", "year": "2002", "date": "12-29"},  ],
        customizedDateList: [
         {"keyword": "love_day", date: "2022-05-06"},
       ]
