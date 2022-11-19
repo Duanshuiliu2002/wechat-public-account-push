@@ -66,7 +66,7 @@ export const USER_CONFIG = {
       // 模板消息ID
       useTemplateId: "lpT1DI7ISV3hwMquA2qRSBUhgihCKIJv6BmK8GSEmVA",
       province: "上海",
-      city: "青浦区",
+      city: "上海",
       horoscopeDate: '01-31',
       horoscopeDateType: '今日',
       openUrl: "www.google.com",
@@ -105,9 +105,9 @@ export const USER_CONFIG = {
   /** 天气相关 */
   
   // 默认所在省份, USERS 中没填的话, 会默认拿这里的省份
-  PROVINCE: "河北",
+  PROVINCE: "上海",
   // 默认所在城市, USERS 中没填的话, 会默认拿这里的城市
-  CITY: "廊坊",
+  CITY: "上海",
   
   /** 重要节日相关 */
   
