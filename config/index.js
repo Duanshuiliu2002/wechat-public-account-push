@@ -62,7 +62,7 @@ export const USER_CONFIG = {
       // 想要发送的人的名字
       name: "老婆",
       // 微信测试号字符串
-      id: "omHE5617RCQBY4BkWza1O1ab9Jc4",
+      id: "omHE56xq-q_YQWrQuHabu0z9wiJ0",
       // 模板消息ID
       useTemplateId: "K1ZrkPFOirlrQ8pLLswN5O7MJBf0ntq1SZHzxRZKdf8",
       province: "江苏",
