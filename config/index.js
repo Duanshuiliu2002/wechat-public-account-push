@@ -65,8 +65,8 @@ export const USER_CONFIG = {
       id: "omHE56xq-q_YQWrQuHabu0z9wiJ0",
       // 模板消息ID
       useTemplateId: "K1ZrkPFOirlrQ8pLLswN5O7MJBf0ntq1SZHzxRZKdf8",
-      province: "上海",
-      city: "上海",
+      province: "江苏",
+      city: "苏州",
       horoscopeDate: '01-31',
       horoscopeDateType: '今日',
       openUrl: "www.google.com",
