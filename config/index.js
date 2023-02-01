@@ -65,8 +65,8 @@ export const USER_CONFIG = {
       id: "omHE56xq-q_YQWrQuHabu0z9wiJ0",
       // 模板消息ID
       useTemplateId: "K1ZrkPFOirlrQ8pLLswN5O7MJBf0ntq1SZHzxRZKdf8",
-      province: "江苏",
-      city: "苏州",
+      province: "河北",
+      city: "廊坊",
       horoscopeDate: '01-31',
       horoscopeDateType: '今日',
       openUrl: "www.google.com",
@@ -105,9 +105,9 @@ export const USER_CONFIG = {
   /** 天气相关 */
   
   // 默认所在省份, USERS 中没填的话, 会默认拿这里的省份
-  PROVINCE: "上海",
+  PROVINCE: "河北",
   // 默认所在城市, USERS 中没填的话, 会默认拿这里的城市
-  CITY: "上海",
+  CITY: "廊坊",
   
   /** 重要节日相关 */
   
