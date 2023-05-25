@@ -64,7 +64,7 @@ export const USER_CONFIG = {
       // 微信测试号字符串
       id: "omHE5617RCQBY4BkWza1O1ab9Jc4",
       // 模板消息ID
-      useTemplateId: "WZU00FYOeLyYwhApPg9hFiX4Jxb5RjdiEyV5lLPCuWM",
+      useTemplateId: "6YDA6jG4dwL8BpT_dqGN783XiiH7Gsvy_BqlfvBaFkU",
       province: "中国",
       city: "上海",
       horoscopeDate: '01-31',
