@@ -34,14 +34,14 @@ export const USER_CONFIG = {
     // 土味情话(彩虹屁)
     earthyLoveWords:false,
     // 朋友圈文案
-    momentCopyrighting: true,
+    momentCopyrighting: false,
     // 毒鸡汤
     poisonChickenSoup: false,
     // 古诗古文
     poetry: false,
     
     /** 星座运势 */
-    horoscope: true,
+    horoscope: false,
     
     /** 生日消息和节日消息 */
     birthdayMessage: true,
